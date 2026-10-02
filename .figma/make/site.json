@@ -1,0 +1,10 @@
+{
+  "description": "Track your daily water intake with a cute Hello Kitty-themed counter, designed for fans seeking a fun way to stay hydrated and healthy.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
