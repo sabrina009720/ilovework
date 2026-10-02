@@ -1,5 +1,6 @@
 name: Deploy React to GitHub Pages
-
+env:
+  FIGMA_PUBLIC_URL: /ilovework
 on:
   push:
     branches: [ main ] # 當推送到 main 分支時觸發
